@@ -1,0 +1,50 @@
+What is the largest continent on Earth?|Asia,Africa,Europe,North America|Asia
+What is the smallest country in the world?|Monaco,San Marino,Vatican City,Liechtenstein|Vatican City
+What river is the longest in the world?|Amazon,Nile,Mississippi,Yangtze|Nile
+What is the capital of Australia?|Sydney,Melbourne,Canberra,Brisbane|Canberra
+What is the highest mountain in the world?|K2,Mount Everest,Mount Kilimanjaro,Denali|Mount Everest
+What country has the most natural lakes?|Canada,Russia,United States,Brazil|Canada
+What desert is the largest in the world?|Gobi,Antarctic,Sahara,Arctic|Antarctic
+What country is known as the Land of the Rising Sun?|China,South Korea,Japan,Thailand|Japan
+What is the capital of France?|Paris,Bordeaux,Lyon,Marseille|Paris
+What is the longest river in the United States?|Mississippi River,Missouri River,Colorado River,Yukon River|Missouri River
+What continent is known as the birthplace of humanity?|Africa,Asia,Europe,South America|Africa
+What is the capital of Canada?|Toronto,Vancouver,Ottawa,Montreal|Ottawa
+What ocean is the largest?|Atlantic,Indian,Arctic,Pacific|Pacific
+What is the capital of Italy?|Milan,Venice,Rome,Florence|Rome
+What country has the most population?|India,China,United States,Indonesia|China
+What is the capital of Egypt?|Alexandria,Cairo,Giza,Luxor|Cairo
+What is the smallest ocean in the world?|Atlantic,Indian,Pacific,Arctic|Arctic
+What is the flattest continent on Earth?|Africa,Australia,Antarctica,Europe|Australia
+What is the capital of South Korea?|Seoul,Busan,Incheon,Daegu|Seoul
+What river flows through London?|Thames,Seine,Rhine,Danube|Thames
+What is the capital of Brazil?|Rio de Janeiro,Brasília,São Paulo,Salvador|Brasília
+What is the hottest continent on Earth?|Africa,Asia,Australia,South America|Africa
+What mountain range separates Europe and Asia?|Andes,Rockies,Ural,Alps|Ural
+What is the driest place on Earth?|Sahara Desert,Atacama Desert,Death Valley,Antarctic Desert|Atacama Desert
+What is the capital of Russia?|Moscow,St. Petersburg,Novosibirsk,Kazan|Moscow
+What is the southernmost continent?|South America,Africa,Antarctica,Australia|Antarctica
+What is the largest island in the world?|Greenland,New Guinea,Borneo,Madagascar|Greenland
+What country is home to the Great Barrier Reef?|Indonesia,Australia,Philippines,Thailand|Australia
+What is the capital of Germany?|Munich,Hamburg,Berlin,Frankfurt|Berlin
+What sea is the saltiest in the world?|Dead Sea,Red Sea,Baltic Sea,Mediterranean Sea|Dead Sea
+What country is known as the Land of a Thousand Lakes?|Canada,Finland,Norway,Sweden|Finland
+What is the capital of Japan?|Tokyo,Kyoto,Osaka,Nagoya|Tokyo
+What is the capital of South Africa?|Cape Town,Pretoria,Johannesburg,Durban|Pretoria
+What river is the longest in Europe?|Volga,Danube,Rhine,Thames|Volga
+What is the highest mountain in North America?|Denali,Mount Logan,Mount Saint Elias,Mount Rainier|Denali
+What is the name of the world's largest waterfall?|Angel Falls,Niagara Falls,Iguazu Falls,Victoria Falls|Angel Falls
+What is the capital of Argentina?|Buenos Aires,Cordoba,Rosario,Mendoza|Buenos Aires
+What is the deepest ocean trench in the world?|Java Trench,Tonga Trench,Mariana Trench,Puerto Rico Trench|Mariana Trench
+What is the capital of India?|Mumbai,Kolkata,Delhi,New Delhi|New Delhi
+What lake is the largest by surface area in the world?|Lake Victoria,Lake Superior,Caspian Sea,Lake Baikal|Caspian Sea
+What is the most densely populated country in the world?|India,Monaco,Singapore,Bangladesh|Monaco
+What country is Mount Kilimanjaro located in?|Kenya,Uganda,Tanzania,Ethiopia|Tanzania
+What is the capital of the United Kingdom?|London,Edinburgh,Cardiff,Belfast|London
+What country has the longest coastline in the world?|United States,Russia,Canada,Australia|Canada
+What is the largest desert in Africa?|Sahara,Kalahari,Namib,Sahel|Sahara
+What is the name of the tallest waterfall in the world?|Angel Falls,Niagara Falls,Victoria Falls,Iguazu Falls|Angel Falls
+What is the capital of Spain?|Barcelona,Madrid,Seville,Valencia|Madrid
+What country is known for its fjords?|Norway,Sweden,Denmark,Iceland|Norway
+What river is sacred in Hinduism?|Nile,Amazon,Mississippi,Ganges|Ganges
+What continent has the most countries?|Asia,Africa,Europe,South America|Africa

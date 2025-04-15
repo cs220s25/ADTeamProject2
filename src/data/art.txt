@@ -1,0 +1,50 @@
+Who painted the Mona Lisa?|Leonardo da Vinci,Pablo Picasso,Michelangelo,Claude Monet|Leonardo da Vinci
+What is the art style associated with Van Gogh?|Cubism,Impressionism,Post-Impressionism,Surrealism|Post-Impressionism
+What museum is the Mona Lisa housed in?|The Louvre,The Met,Tate Modern,Uffizi Gallery|The Louvre
+Who painted the ceiling of the Sistine Chapel?|Leonardo da Vinci,Michelangelo,Raphael,Donatello|Michelangelo
+What art movement is Salvador Dalí associated with?|Surrealism,Impressionism,Dadaism,Expressionism|Surrealism
+What is the primary material used in sculptures by Auguste Rodin?|Bronze,Wood,Marble,Clay|Bronze
+Who painted "The Starry Night"?|Vincent van Gogh,Claude Monet,Pablo Picasso,Edvard Munch|Vincent van Gogh
+What type of paint is made with pigment and egg yolk?|Acrylic,Tempera,Oil,Watercolor|Tempera
+What is the term for a painting done on wet plaster?|Fresco,Mural,Tempera,Etching|Fresco
+Who painted "The Persistence of Memory"?|Salvador Dalí,Pablo Picasso,Joan Miró,René Magritte|Salvador Dalí
+What is the art style that emphasizes light and color over detail?|Realism,Impressionism,Surrealism,Baroque|Impressionism
+Who is the artist behind "The Scream"?|Edvard Munch,Vincent van Gogh,Paul Cézanne,Francis Bacon|Edvard Munch
+What is the most famous painting by Grant Wood?|American Gothic,Nighthawks,Whistler's Mother,The Hay Wain|American Gothic
+What is the technique of carving into a block of material for printing?|Etching,Lithography,Woodcut,Engraving|Woodcut
+What movement is Jackson Pollock associated with?|Impressionism,Cubism,Abstract Expressionism,Pop Art|Abstract Expressionism
+What is the art of folding paper called?|Calligraphy,Origami,Collage,Quilling|Origami
+Who painted the "Girl with a Pearl Earring"?|Johannes Vermeer,Rembrandt,Caravaggio,Jan van Eyck|Johannes Vermeer
+What is the name of Picasso’s anti-war masterpiece?|Les Demoiselles d'Avignon,Guernica,The Weeping Woman,La Vie|Guernica
+Who is the famous sculptor of "The Thinker"?|Donatello,Bernini,Rodin,Michelangelo|Rodin
+What art style is Andy Warhol known for?|Surrealism,Pop Art,Abstract Expressionism,Dada|Pop Art
+Who painted the "Birth of Venus"?|Botticelli,Caravaggio,Michelangelo,Leonardo da Vinci|Botticelli
+What is the term for an image made with small dots of color?|Pointillism,Impressionism,Cubism,Surrealism|Pointillism
+Who created the "Campbell’s Soup Cans" artwork?|Pablo Picasso,Andy Warhol,Salvador Dalí,Jean-Michel Basquiat|Andy Warhol
+What is the name of the famous sculpture by Michelangelo in Florence?|David,Pietà,Moses,St. George|David
+Who painted the "Water Lilies" series?|Claude Monet,Paul Cézanne,Edgar Degas,Vincent van Gogh|Claude Monet
+What medium is commonly used in graffiti art?|Oil Paint,Chalk,Spray Paint,Ink|Spray Paint
+What period of art followed the Renaissance?|Baroque,Rococo,Medieval,Neoclassical|Baroque
+What is the term for a drawing technique using dots?|Stippling,Hatching,Cross-Hatching,Shading|Stippling
+Who painted "The Last Supper"?|Leonardo da Vinci,Michelangelo,Raphael,Caravaggio|Leonardo da Vinci
+What is the term for a three-dimensional artwork?|Drawing,Relief,Sculpture,Collage|Sculpture
+Who was known as the painter of light?|J.M.W. Turner,John Constable,Claude Monet,Thomas Gainsborough|J.M.W. Turner
+What is the name of the movement characterized by fragmented objects and multiple perspectives?|Cubism,Surrealism,Impressionism,Expressionism|Cubism
+What is the term for a large wall painting?|Mural,Fresco,Tapestry,Canvas|Mural
+What famous painting was stolen from the Louvre in 1911?|Mona Lisa,The Last Supper,Starry Night,The Scream|Mona Lisa
+Who painted "The Night Watch"?|Rembrandt,Vermeer,Caravaggio,Rubens|Rembrandt
+What technique uses wax and pigment to create images?|Encaustic,Tempera,Fresco,Oil|Encaustic
+What is the name of the famous ceiling painted by Michelangelo?|The Sistine Chapel Ceiling,The Vatican Ceiling,The St. Peter’s Ceiling,The Raphael Rooms|The Sistine Chapel Ceiling
+What is the term for an artwork that uses found objects?|Assemblage,Collage,Relief,Installation|Assemblage
+Who is considered the father of modern art?|Paul Cézanne,Claude Monet,Vincent van Gogh,Edouard Manet|Paul Cézanne
+What is the term for the use of light and dark in a painting?|Chiaroscuro,Impressionism,Sfumato,Pointillism|Chiaroscuro
+What is the name of the famous painting with melting clocks?|The Persistence of Memory,The Starry Night,Guernica,Les Demoiselles d'Avignon|The Persistence of Memory
+What is the name of the prehistoric cave paintings in France?|Altamira,Lascaux,Chauvet,Font-de-Gaume|Lascaux
+Who painted "The Blue Boy"?|Thomas Gainsborough,Joshua Reynolds,George Stubbs,John Constable|Thomas Gainsborough
+What art style is characterized by exaggerated motion and clear detail?|Renaissance,Baroque,Impressionism,Surrealism|Baroque
+What is the name of the famous statue in Rio de Janeiro?|Statue of Liberty,Christ the Redeemer,The Colossus,Angel of the North|Christ the Redeemer
+What is the name of the art movement that celebrates technology and modernity?|Futurism,Cubism,Dadaism,Constructivism|Futurism
+What is the main focus of still life paintings?|Landscapes,Human Figures,Everyday Objects,Historical Events|Everyday Objects
+Who painted the "Sunflowers" series?|Vincent van Gogh,Paul Gauguin,Claude Monet,Edgar Degas|Vincent van Gogh
+What is the term for an artwork made of small pieces of colored glass or stone?|Mosaic,Fresco,Relief,Collage|Mosaic
+Who painted "Impression, Sunrise"?|Claude Monet,Edgar Degas,Pierre-Auguste Renoir,Camille Pissarro|Claude Monet

@@ -1,0 +1,49 @@
+What is the chemical symbol for water?|H2O,CO2,O2,HCl|H2O
+What planet is known as the Red Planet?|Earth,Mars,Venus,Jupiter|Mars
+What gas do plants absorb from the atmosphere?|Oxygen,Nitrogen,Carbon Dioxide,Hydrogen|Carbon Dioxide
+What is the center of an atom called?|Electron,Nucleus,Proton,Neutron|Nucleus
+What is the hardest natural substance on Earth?|Gold,Diamond,Iron,Graphite|Diamond
+How many planets are in our solar system?|7,8,9,10|8
+What is the process by which plants make food?|Respiration,Photosynthesis,Digestive Process,Circulation|Photosynthesis
+Which organ in the human body is responsible for filtering blood?|Lungs,Liver,Kidney,Heart|Kidney
+What is the boiling point of water at sea level?|90°C,100°C,110°C,120°C|100°C
+What gas do humans exhale?|Oxygen,Carbon Dioxide,Nitrogen,Argon|Carbon Dioxide
+What is the largest planet in our solar system?|Earth,Saturn,Jupiter,Mars|Jupiter
+What is the primary source of energy for Earth?|Wind,Water,Sun,Nuclear|Sun
+Who is known as the father of modern physics?|Isaac Newton,Albert Einstein,Nikola Tesla,Galileo Galilei|Albert Einstein
+What is the chemical formula for table salt?|NaCl,Na2CO3,KCl,CaCO3|NaCl
+What is the basic unit of life?|Tissue,Organ,System,Cell|Cell
+What force keeps objects on the ground?|Friction,Gravity,Magnetism,Electricity|Gravity
+What is the study of fungi called?|Botany,Zoology,Mycology,Geology|Mycology
+What is the name of our galaxy?|Andromeda,Milky Way,Whirlpool,Black Eye|Milky Way
+How many chambers does the human heart have?|2,3,4,5|4
+What is the largest organ in the human body?|Heart,Brain,Skin,Liver|Skin
+What is the smallest particle of an element?|Atom,Molecule,Proton,Electron|Atom
+What is the powerhouse of the cell?|Nucleus,Mitochondria,Ribosome,Endoplasmic Reticulum|Mitochondria
+What does DNA stand for?|Deoxynucleic Acid,Deoxyribonucleic Acid,Dinucleic Acid,Dioxyribose Acid|Deoxyribonucleic Acid
+What is the most abundant gas in Earth’s atmosphere?|Oxygen,Nitrogen,Carbon Dioxide,Hydrogen|Nitrogen
+What is the study of animals called?|Botany,Zoology,Geology,Ecology|Zoology
+What part of the brain controls balance?|Cerebrum,Cerebellum,Medulla Oblongata,Hypothalamus|Cerebellum
+What is the term for an animal that eats both plants and animals?|Herbivore,Carnivore,Omnivore,Insectivore|Omnivore
+What is the unit of force in physics?|Newton,Joule,Watt,Pascal|Newton
+What is the chemical symbol for gold?|Au,Ag,Fe,Pt|Au
+What is the study of the universe called?|Biology,Cosmology,Astronomy,Geology|Astronomy
+What do bees collect and use to make honey?|Nectar,Pollen,Wax,Sap|Nectar
+What is the outermost layer of Earth?|Crust,Mantle,Core,Troposphere|Crust
+What is the name of the process by which cells divide?|Meiosis,Replication,Transcription,Mitosis|Mitosis
+What is the chemical formula for carbon dioxide?|CO2,CO,H2O,C2O|CO2
+What is the primary function of red blood cells?|Carry Oxygen,Fight Infection,Clot Blood,Store Fat|Carry Oxygen
+What is the name of the nearest star to Earth?|Sun,Alpha Centauri,Betelgeuse,Sirius|Sun
+What is the smallest planet in our solar system?|Mercury,Venus,Mars,Pluto|Mercury
+What is the process of converting a liquid to a gas?|Condensation,Evaporation,Sublimation,Precipitation|Evaporation
+What is the study of plants called?|Zoology,Botany,Geology,Ecology|Botany
+What is the human body’s largest bone?|Femur,Tibia,Humerus,Radius|Femur
+What is the term for water changing directly from a solid to a gas?|Condensation,Sublimation,Evaporation,Freezing|Sublimation
+What is the process of an animal shedding its skin?|Hibernation,Metamorphosis,Molting,Regeneration|Molting
+What is the term for an animal that only eats plants?|Omnivore,Carnivore,Herbivore,Insectivore|Herbivore
+What type of rock is formed from cooled lava?|Igneous,Metamorphic,Sedimentary,Fossilized|Igneous
+What is the layer of gases surrounding Earth called?|Hydrosphere,Atmosphere,Biosphere,Lithosphere|Atmosphere
+What is the name of the organ that pumps blood in the human body?|Heart,Liver,Brain,Stomach|Heart
+What is the SI unit of temperature?|Kelvin,Celsius,Fahrenheit,Joule|Kelvin
+What type of blood cells help fight infections?|Red,White,Platelets,Plasma|White
+What is the smallest unit of matter?|Atom,Molecule,Particle,Electron|Atom

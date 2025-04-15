@@ -1,0 +1,50 @@
+Who directed the movie Titanic?|Steven Spielberg,James Cameron,Christopher Nolan,Martin Scorsese|James Cameron
+What is the highest-grossing movie of all time?|Avatar,Avengers: Endgame,Titanic,Star Wars: The Force Awakens|Avatar
+Who played the character Jack Sparrow in Pirates of the Caribbean?|Johnny Depp,Orlando Bloom,Brad Pitt,Leonardo DiCaprio|Johnny Depp
+What TV show is known for the phrase “Winter is coming”?|Breaking Bad,Game of Thrones,Stranger Things,The Witcher|Game of Thrones
+Who is known as the King of Pop?|Elvis Presley,Michael Jackson,Prince,Freddie Mercury|Michael Jackson
+What year was Friends first aired?|1992,1994,1996,1998|1994
+Who sang the hit song “Hello” in 2015?|Adele,Taylor Swift,Beyoncé,Lady Gaga|Adele
+What superhero is known as the "Caped Crusader"?|Superman,Batman,Spider-Man,Iron Man|Batman
+What is the name of Harry Potter’s owl?|Hedwig,Fawkes,Crookshanks,Errol|Hedwig
+What is the longest-running animated TV show?|The Simpsons,Family Guy,South Park,SpongeBob SquarePants|The Simpsons
+What band released the album Abbey Road?|The Rolling Stones,The Beatles,Led Zeppelin,The Beach Boys|The Beatles
+What is the name of the kingdom in Frozen?|Arendelle,Westeros,Narnia,Asgard|Arendelle
+What popular video game franchise has characters like Mario and Luigi?|The Legend of Zelda,Super Mario Bros,Pokémon,Final Fantasy|Super Mario Bros
+Who won the first season of American Idol?|Kelly Clarkson,Carrie Underwood,Fantasia Barrino,Clay Aiken|Kelly Clarkson
+What is the name of the coffee shop in Friends?|Central Perk,Monica’s Cafe,The Daily Grind,Perk Up|Central Perk
+What artist is famous for the song "Shape of You"?|Ed Sheeran,Shawn Mendes,Sam Smith,Justin Bieber|Ed Sheeran
+What Netflix series features the Hawkins Lab and the Upside Down?|The Witcher,Stranger Things,Dark,The Crown|Stranger Things
+What movie features the line, “May the Force be with you”?|Star Trek,Star Wars,The Avengers,Guardians of the Galaxy|Star Wars
+What year was the iPhone first released?|2005,2007,2009,2010|2007
+Who plays the character Tony Stark in the Marvel Cinematic Universe?|Chris Evans,Robert Downey Jr.,Chris Hemsworth,Mark Ruffalo|Robert Downey Jr.
+What social media platform is known for its 140-character limit (now 280)?|Instagram,Twitter,Facebook,Snapchat|Twitter
+What is the name of the theme park based on Harry Potter?|Universal Studios,Wizarding World of Harry Potter,Disneyland,Epcot|Wizarding World of Harry Potter
+What rapper is known as "Slim Shady"?|Kanye West,Eminem,Drake,Jay-Z|Eminem
+What reality TV show launched the Kardashians to fame?|The Simple Life,Keeping Up with the Kardashians,Dancing with the Stars,The Bachelor|Keeping Up with the Kardashians
+What video game became a global phenomenon in 2020 for its social gameplay?|Minecraft,Among Us,Fortnite,Animal Crossing|Among Us
+Who is the creator of The Simpsons?|Matt Groening,Seth MacFarlane,Trey Parker,Matt Stone|Matt Groening
+What pop star’s fans are called "Swifties"?|Ariana Grande,Billie Eilish,Taylor Swift,Beyoncé|Taylor Swift
+What movie features a bus that must stay above 50 mph?|Die Hard,Speed,Mad Max: Fury Road,The Transporter|Speed
+What is the name of the villain in The Lion King?|Mufasa,Simba,Scar,Zazu|Scar
+Who wrote the Twilight book series?|J.K. Rowling,Stephenie Meyer,Suzanne Collins,Veronica Roth|Stephenie Meyer
+What show features a character named Sheldon Cooper?|Parks and Recreation,The Big Bang Theory,Modern Family,How I Met Your Mother|The Big Bang Theory
+Who sang "Bohemian Rhapsody"?|The Beatles,Queen,Led Zeppelin,Pink Floyd|Queen
+What artist is known for the album 1989?|Katy Perry,Taylor Swift,Lady Gaga,Adele|Taylor Swift
+What movie franchise features Optimus Prime?|Star Wars,Transformers,The Avengers,X-Men|Transformers
+Who played Rachel Green in Friends?|Jennifer Aniston,Courteney Cox,Lisa Kudrow,Sandra Bullock|Jennifer Aniston
+What movie is famous for the line “I’ll be back”?|The Terminator,Rambo,Die Hard,Predator|The Terminator
+What is the name of the school in Harry Potter?|Hogwarts,Durmstrang,Beauxbatons,Ilvermorny|Hogwarts
+What year did Game of Thrones first air?|2009,2011,2013,2015|2011
+Who starred as the lead in La La Land?|Ryan Gosling,Emma Stone,Bradley Cooper,Lady Gaga|Emma Stone
+What is the name of the fictional African country in Black Panther?|Wakanda,Zamunda,Asgard,Genovia|Wakanda
+What is the name of Ariel’s crab friend in The Little Mermaid?|Sebastian,Flounder,Scuttle,Ursula|Sebastian
+What is the name of the Netflix docuseries about Joe Exotic?|Making a Murderer,Tiger King,Wild Wild Country,The Staircase|Tiger King
+What movie features the character Buzz Lightyear?|Toy Story,Monsters, Inc.,Finding Nemo,The Incredibles|Toy Story
+What is the name of the lead singer of Coldplay?|Chris Martin,Adam Levine,Ed Sheeran,Bruno Mars|Chris Martin
+Who directed Pulp Fiction?|Steven Spielberg,Quentin Tarantino,Martin Scorsese,James Cameron|Quentin Tarantino
+What is the name of SpongeBob’s pet snail?|Gary,Larry,Terry,Barry|Gary
+What artist is famous for the album Lemonade?|Rihanna,Beyoncé,Lady Gaga,Ariana Grande|Beyoncé
+Who plays the lead character in John Wick?|Keanu Reeves,Brad Pitt,Tom Cruise,Denzel Washington|Keanu Reeves
+What is the name of the TV show where contestants survive on a deserted island?|Survivor,Big Brother,The Amazing Race,Man vs. Wild|Survivor
+What 1994 Disney movie was turned into a successful Broadway musical?|The Lion King,Aladdin,Beauty and the Beast,Pocahontas|The Lion King

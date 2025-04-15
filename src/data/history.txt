@@ -1,0 +1,49 @@
+Who was the first President of the United States?|George Washington,John Adams,Thomas Jefferson,Abraham Lincoln|George Washington
+In what year did the Titanic sink?|1912,1914,1918,1920|1912
+What was the name of the ship that brought the Pilgrims to America in 1620?|Santa Maria,Mayflower,Pinta,Nina|Mayflower
+Who was known as the "Mad Monk" of Russia?|Rasputin,Lenin,Stalin,Trotsky|Rasputin
+What year did World War I begin?|1912,1914,1916,1918|1914
+Who wrote the Declaration of Independence?|Benjamin Franklin,John Adams,Thomas Jefferson,George Washington|Thomas Jefferson
+What year did World War II end?|1944,1945,1946,1947|1945
+Who was the first Emperor of Rome?|Julius Caesar,Augustus,Nero,Constantine|Augustus
+What was the name of the first manned moon landing mission?|Apollo 10,Apollo 11,Apollo 12,Apollo 13|Apollo 11
+Who discovered America in 1492?|Christopher Columbus,Ferdinand Magellan,Leif Erikson,Vasco da Gama|Christopher Columbus
+Who was the British Prime Minister during World War II?|Neville Chamberlain,Winston Churchill,Margaret Thatcher,Tony Blair|Winston Churchill
+What year was the Berlin Wall torn down?|1985,1987,1989,1991|1989
+What year did the French Revolution begin?|1787,1789,1791,1793|1789
+Who was the first woman to fly solo across the Atlantic Ocean?|Amelia Earhart,Sally Ride,Harriet Quimby,Bessie Coleman|Amelia Earhart
+What year was the United Nations established?|1943,1945,1947,1949|1945
+What ancient city was buried by a volcanic eruption in 79 AD?|Athens,Sparta,Pompeii,Rome|Pompeii
+Who was the leader of the Soviet Union during World War II?|Lenin,Stalin,Khrushchev,Brezhnev|Stalin
+What was the name of the ship Charles Darwin sailed on?|Beagle,Endeavour,Discovery,Resolution|Beagle
+In what year did the Great Fire of London occur?|1664,1666,1668,1670|1666
+Who was the first man to step on the moon?|Neil Armstrong,Buzz Aldrin,Michael Collins,Yuri Gagarin|Neil Armstrong
+What was the name of the agreement that ended World War I?|Treaty of Versailles,Treaty of Paris,Treaty of Ghent,Treaty of Vienna|Treaty of Versailles
+Who was the famous nurse during the Crimean War?|Florence Nightingale,Clara Barton,Mary Seacole,Lillian Wald|Florence Nightingale
+What empire built the Colosseum?|Roman,Greek,Byzantine,Ottoman|Roman
+Who was the first African American president of the United States?|Barack Obama,Frederick Douglass,Martin Luther King Jr.,Colin Powell|Barack Obama
+What year did the U.S. Civil War begin?|1859,1861,1863,1865|1861
+Who was the first King of England?|William the Conqueror,Alfred the Great,Henry VIII,Edward I|Alfred the Great
+What was the name of the plane that dropped the atomic bomb on Hiroshima?|Enola Gay,Memphis Belle,Bockscar,Spirit of St. Louis|Enola Gay
+Who was assassinated on November 22, 1963?|Abraham Lincoln,John F. Kennedy,Martin Luther King Jr.,Robert F. Kennedy|John F. Kennedy
+What ancient wonder was located in Babylon?|Hanging Gardens,Great Pyramid,Colossus of Rhodes,Temple of Artemis|Hanging Gardens
+What year did the Cold War officially end?|1989,1990,1991,1992|1991
+What was the name of the first permanent English colony in America?|Roanoke,Jamestown,Plymouth,New Amsterdam|Jamestown
+Who was the last Tsar of Russia?|Alexander III,Nicholas II,Ivan IV,Peter the Great|Nicholas II
+What was the name of the medieval code of honor followed by knights?|Chivalry,Bushido,Feudalism,Crusades|Chivalry
+Who was the leader of Nazi Germany?|Hitler,Mussolini,Stalin,Franco|Hitler
+What war was fought between the North and South in the United States?|Revolutionary War,Civil War,War of 1812,Spanish-American War|Civil War
+What ancient civilization built Machu Picchu?|Inca,Maya,Aztec,Olmec|Inca
+What year did women gain the right to vote in the United States?|1918,1920,1922,1924|1920
+Who was the longest-reigning monarch in British history?|Queen Elizabeth I,Queen Elizabeth II,Queen Victoria,King George III|Queen Elizabeth II
+What year was the Magna Carta signed?|1212,1215,1217,1220|1215
+Who was the first European to reach India by sea?|Christopher Columbus,Vasco da Gama,Ferdinand Magellan,Marco Polo|Vasco da Gama
+What year did the Great Depression begin?|1927,1929,1931,1933|1929
+Who painted the ceiling of the Sistine Chapel?|Leonardo da Vinci,Michelangelo,Raphael,Donatello|Michelangelo
+What year was the first manned spaceflight?|1959,1961,1963,1965|1961
+Who was the general of the Confederate Army during the U.S. Civil War?|Ulysses S. Grant,Robert E. Lee,William T. Sherman,Stonewall Jackson|Robert E. Lee
+What year did the Boston Tea Party occur?|1771,1773,1775,1777|1773
+Who was the Egyptian queen who allied with Julius Caesar?|Nefertiti,Hatshepsut,Cleopatra,Nefertari|Cleopatra
+What year did the Wright brothers first fly?|1901,1903,1905,1907|1903
+What empire did Genghis Khan establish?|Mongol,Ottoman,Persian,Byzantine|Mongol
+What year did the Vietnam War end?|1973,1975,1977,1979|1975
