@@ -10,5 +10,5 @@ sudo systemctl enable redis6
 sudo systemctl start redis6
 
 ## clone the repo and cd into the project
-git clone https://github.com/cs220s25/ADTeamProject.git
-cd ADTeamProject/
+git clone https://github.com/cs220s25/ADTeamProject2.git
+cd ADTeamProject2/

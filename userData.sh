@@ -4,8 +4,8 @@ yum install -y maven-amazon-corretto21
 yum install -y redis6
 systemctl enable redis6
 systemctl start redis6
-git clone https://github.com/cs220s25/ADTeamProject.git
-cd ADTeamProject/discordBotProject
+git clone https://github.com/cs220s25/ADTeamProject2.git
+cd ADTeamProject2
 chmod +x redeploy.sh
 mvn clean
 mvn package
