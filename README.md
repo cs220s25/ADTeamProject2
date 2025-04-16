@@ -1,20 +1,24 @@
-# ADTeamProject
-Amanda and Deb's Team Project Repository
+# Trivia Discord Bot
 
 ## CI STATUS
 [![Deploy on 
 AWS](https://github.com/cs220s25/ADTeamProject/actions/workflows/DeployOnAWS.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject/actions/workflows/DeployOnAWS.yml)
+
 [![Run Maven Tests](https://github.com/cs220s25/ADTeamProject/actions/workflows/run_tests.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject/actions/workflows/run_tests.yml)
 
+## Contributors
+* Amanda McNesby
+* Deborah Rabinovich
 
 # Setup
+The first step for setup is to clone the repository to your laptop. For 
+either method you will need to start an AWS learner lab.
 
+```sh
 git clone https://github.com/cs220s25/ADTeamProject.git
+```
 
-- create .env file that inclues these things:
-
-DISCORD_TOKEN=<API key>
-CHANNEL_NAME=<Channel Name>
+# Local Deployment:
 
 To use with Amazon Secrets Manager:
 Find the values for the items listed below in your learner lab. Next, put 
@@ -28,10 +32,36 @@ aws_secret_access_key=< VALUE >
 aws_session_token=< VALUE >
 ```
 
+Once you complete your credentials directory, you will need to cd into the 
+repository and change the permissions of your deploy script and then run 
+the script. You should do this with the following commands: 
+```sh
+chmod +x localDeployment.sh
+./localDeployment.sh
+```
 
-For Running locally: Before running localDeployment.sh 
-- chmod +x localDeployment.sh
-- Then to run script ./localDeployment.sh
+# EC2 Deployment
+
+
+## Technologies Used
+Discord API
+https://discord.com/developers/docs/intro
+
+Redis
+https://redis.io/docs/latest/
+
+Maven
+https://maven.apache.org/
+
+AWS Secrets Manager
+https://aws.amazon.com/secrets-manager/
+
+Github Actions
+https://github.com/features/actions
+
+
+## Background
+
 
 # Project Description
 
