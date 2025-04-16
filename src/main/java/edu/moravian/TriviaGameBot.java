@@ -10,6 +10,8 @@ import net.dv8tion.jda.api.events.message.MessageReceivedEvent;
 import net.dv8tion.jda.api.hooks.ListenerAdapter;
 import net.dv8tion.jda.api.requests.GatewayIntent;
 
+import java.io.IOException;
+
 /**
  * This class is responsible for starting the bot and connecting it to Discord as well as initiating the game.
  */
@@ -28,13 +30,23 @@ public class TriviaGameBot {
         try {
             storage = new RedisStorage("localhost", 6379);
             storage.testConnection();
-        } catch (StorageException e) {
+
+            if (storage.getCategories().isEmpty()) {
+                storage.addCategory("science", IngestData.readFile("src/data/science.txt"));
+                storage.addCategory("art", IngestData.readFile("src/data/art.txt"));
+                storage.addCategory("history", IngestData.readFile("src/data/history.txt"));
+                storage.addCategory("geography", IngestData.readFile("src/data/geography.txt"));
+                storage.addCategory("sports", IngestData.readFile("src/data/sports.txt"));
+                storage.addCategory("popCulture", IngestData.readFile("src/data/popCulture.txt"));
+
+            }
+        } catch (StorageException | IOException e) {
             System.err.println("Failed to connect to Redis\n\nIs it running?");
             System.exit(1);
         }
-
         return storage;
     }
+
 
     private static BotResponder createResponder(TriviaStorage storage) {
         TriviaGame game = new TriviaGame(storage);
