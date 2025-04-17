@@ -2,9 +2,12 @@
 
 ## CI STATUS
 [![Deploy on 
-AWS](https://github.com/cs220s25/ADTeamProject/actions/workflows/DeployOnAWS.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject/actions/workflows/DeployOnAWS.yml)
+AWS](https://github.com/cs220s25/ADTeamProject2/actions/workflows/DeployOnAws.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject2/actions/workflows/DeployOnAws.yml)
 
-[![Run Maven Tests](https://github.com/cs220s25/ADTeamProject/actions/workflows/run_tests.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject/actions/workflows/run_tests.yml)
+[![Run Maven 
+Tests](https://github.com/cs220s25/ADTeamProject2/actions/workflows/run_tests.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject2/actions/workflows/run_tests.yml)
+
+
 
 ## Contributors
 * Amanda McNesby
