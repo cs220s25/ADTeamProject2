@@ -5,7 +5,7 @@ yum install -y redis6
 systemctl enable redis6
 systemctl start redis6
 git clone https://github.com/cs220s25/ADTeamProject2.git /ADTeamProject2
-cd ADTeamProject2
+cd /ADTeamProject2
 chmod +x redeploy.sh
 mvn clean
 mvn package
