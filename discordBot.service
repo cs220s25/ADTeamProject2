@@ -1,11 +1,11 @@
 [Unit]
 Description=Manage discord bot
 After=network-online.target
+Wants=network-online.target
 
 [Service]
-User=ec2-user
-WorkingDirectory=/home/ec2-user/ADTeamProject2
-ExecStart=/usr/bin/java -jar target/dbot-1.0-SNAPSHOT.jar
+WorkingDirectory=/ADTeamProject2
+ExecStart=java -jar target/dbot-1.0-SNAPSHOT.jar
 
 [Install]
 WantedBy=multi-user.target
