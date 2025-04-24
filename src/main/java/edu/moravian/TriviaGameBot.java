@@ -28,7 +28,11 @@ public class TriviaGameBot {
     private static RedisStorage createStorage() {
         RedisStorage storage = null;
         try {
-            storage = new RedisStorage("localhost", 6379);
+
+            String host = System.getenv().getOrDefault("REDIS_HOST", "redisdb");
+            int port = Integer.parseInt(System.getenv().getOrDefault("REDIS_PORT", "6379"));
+
+            storage = new RedisStorage(host, port);
             storage.testConnection();
 
             if (storage.getCategories().isEmpty()) {
