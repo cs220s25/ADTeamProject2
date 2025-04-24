@@ -46,6 +46,38 @@ chmod +x localDeployment.sh
 # EC2 Deployment
 
 
+
+# Local Docker deployment
+* In the Learner lab, click "AWS Details" and then copy the text in the window below "AWS CLI"
+
+```
+[default]
+aws_access_key_id==<VALUE>
+aws_secret_access_key==<VALUE>
+aws_session_token=<VALUE>
+REDIS_HOST=redisdb
+REDIS_PORT=6379
+```
+
+* Paste this string into a file named `aws.env` in the root of this repo.
+
+* Edit this file to:
+
+  1. Remove the `[default]` line
+  2. Change all the variable names to all caps
+
+
+```
+AWS_ACCESS_KEY_ID=<VALUE>
+AWS_SECRET_ACCESS_KEY=<VALUE>
+AWS_SESSION_TOKEN=<VALUE>
+```
+Next, give execute permissions and run script by running 
+```
+chmod +x startup.sh
+./startup.sh
+```
+
 ## Technologies Used
 Discord API
 https://discord.com/developers/docs/intro
