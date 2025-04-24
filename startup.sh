@@ -8,7 +8,7 @@ else
     echo "Network trivia already exists."
 fi
 
-docker rm -f redisdb 2</dev/null
+docker rm -f redisdb 2>/dev/null
 docker rm -f trivia-bot 2>/dev/null
 
 # Start Redis
@@ -16,4 +16,16 @@ docker run -d --network trivia --name redisdb -v $(pwd)/data:/data redis redis-s
 
 # Build and start bot
 docker build -t trivia-bot .
-docker run -d --network trivia --name trivia-bot --env-file aws.env trivia-bot
+
+# Check if running on EC2 already or not 
+if curl --connect-timeout 1 -s http://169.254.169.254/latest/meta-data/instance-id > /dev/null; then
+	echo "EC2 environment found. Will use IAM role for credentials."
+	docker run -d --network trivia --name trivia-bot -e REDIS_HOST=redisdb -e REDIS_PORT=6379 trivia-bot
+else
+	echo "Using local environment. Will use aws.env for credentials"
+	if [ ! -f aws.env ]; then 
+		echo "aws.env not found"
+		exit 1
+	fi
+	docker run -d --network trivia --name trivia-bot --env-file aws.env trivia-bot
+fi
