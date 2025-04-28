@@ -4,7 +4,6 @@
 git config --global --add safe.directory /ADTeamProject2
 
 # Navigate to project directory and pull latest changes
-cd /ADTeamProject2
 git pull origin main
 
 # Build Docker image
