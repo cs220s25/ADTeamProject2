@@ -1,7 +1,11 @@
 #!/bin/bash
+cd /ADTeamProject2
+
+sudo systemctl stop discordBot.service
 
 # Pull any updates
 sudo git pull origin main
+sudo mvn clean package
 
-# Restart service 
-sudo systemctl restart discordBot.service
+# Start service 
+sudo systemctl start discordBot.service
