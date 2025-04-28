@@ -17,7 +17,7 @@ public class BotResponses {
                 "* `!start random` - Start new game with a random category.\n" +
                 "* `!join` - Join the game. Can only join when game is in progress or in progress.\n" +
                 "* `!go` - Start the game when all players are ready!\n" +
-                "* `!question` - Get the current question.\n" +
+                "* `!question` - Get the question.\n" +
                 "* `!status` - See the current game status, category, and the current scores in the game.\n" +
                 "* `!quit` - Quit the game.\n" +
                 "* `!help` - Get all game commands.\n" +
