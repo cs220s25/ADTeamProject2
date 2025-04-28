@@ -43,11 +43,16 @@ chmod +x localDeployment.sh
 ./localDeployment.sh
 ```
 
-# EC2 Deployment
+# EC2 Docker Deployment
 In your AWS Learner Lab, find Secrets Manager Service and store a new 
 secret. Name you secret DISCORD_TOKEN, and add your own discord token. 
 Store another secret named CHANNEL_NAME, and use the name of the channel 
 you want to run the bot in.
+
+Next, you want to create a role that is connected to AWS secrets manager. 
+Attach the role to the IAM Instance Profile Option when creating a new EC2 
+instance. Upload the contents of userData.sh into the user data option. 
+Now you can launch your instance. 
 
 
 # Local Docker Deployment
