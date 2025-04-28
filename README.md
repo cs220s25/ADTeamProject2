@@ -79,21 +79,18 @@ chmod +x startup.sh
 ```
 
 ## Technologies Used
-By using Discord API, this project creates a bot that can start a 
-categories game for users. [Discord 
+By using Discord API, this project creates a bot that can start a categories game for users.  [Discord 
 API](https://discord.com/developers/docs/intro)
 
-Redis
-https://redis.io/docs/latest/
+The main way of data storage for our project is a Redis database.  [Redis](https://redis.io/docs/latest/]
 
-Maven
-https://maven.apache.org/
+Maven is used to package the bot, so we have a .jar file to run the bot.  [Maven](https://maven.apache.org/)
 
-AWS Secrets Manager
-https://aws.amazon.com/secrets-manager/
+AWS Secrets allows users to store sensitive information. In this specific project it was used to store the discord 
+token and the channel name.  [AWS Secrets Manager](https://aws.amazon.com/secrets-manager/)
 
-Github Actions
-https://github.com/features/actions
+Github Actions is useful to run a process after a certain commit or action, like push and pulls. Actions used in 
+our project are for running tests and deployments.  [Github Actions](https://github.com/features/actions)
 
 
 ## Background
