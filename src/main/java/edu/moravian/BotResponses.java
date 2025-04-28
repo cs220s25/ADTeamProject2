@@ -19,7 +19,7 @@ public class BotResponses {
                 "* `!go` - Start the game when all players are ready!\n" +
                 "* `!question` - Get the question.\n" +
                 "* `!status` - See the game status, category, and the current scores in the game.\n" +
-                "* `!quit` - Quit the game.\n" +
+                "* `!quit` - Quit.\n" +
                 "* `!help` - Get all game commands.\n" +
                 "* `!scores` - Get the current score of the game.\n";
     }
