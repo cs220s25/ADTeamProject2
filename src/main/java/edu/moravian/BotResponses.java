@@ -12,7 +12,7 @@ public class BotResponses {
         return "**Trivia Game!**\n" +
                 "Here is a list of commands to play!\n\n" +
                 "* `!about` - Get information!\n" +
-                "* `!categories` - See all of the available categories.\n" +
+                "* `!categories` - See all categories.\n" +
                 "* `!start <category>` - Start a new game with picked category.\n" +
                 "* `!start random` - Start new game with a random category.\n" +
                 "* `!join` - Join the game. Can only join when game is in progress or in progress.\n" +
