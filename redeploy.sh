@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Pull any uodates
+# Pull any updates
 sudo git pull origin main
 
 # Restart service 
