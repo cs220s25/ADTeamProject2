@@ -79,8 +79,9 @@ chmod +x startup.sh
 ```
 
 ## Technologies Used
-Discord API
-https://discord.com/developers/docs/intro
+By using Discord API, this project creates a bot that can start a 
+categories game for users. [Discord 
+API](https://discord.com/developers/docs/intro)
 
 Redis
 https://redis.io/docs/latest/
