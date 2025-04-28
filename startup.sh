@@ -8,6 +8,7 @@ else
     echo "Network trivia already exists."
 fi
 
+# Removes existing containers
 docker rm -f redisdb 2>/dev/null
 docker rm -f trivia-bot 2>/dev/null
 
