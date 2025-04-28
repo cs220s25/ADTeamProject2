@@ -43,18 +43,6 @@ chmod +x localDeployment.sh
 ./localDeployment.sh
 ```
 
-# EC2 Docker Deployment
-In your AWS Learner Lab, find Secrets Manager Service and store a new 
-secret. Name you secret DISCORD_TOKEN, and add your own discord token. 
-Store another secret named CHANNEL_NAME, and use the name of the channel 
-you want to run the bot in.
-
-Next, you want to create a role that is connected to AWS secrets manager. 
-Attach the role to the IAM Instance Profile Option when creating a new EC2 
-instance. Upload the contents of userData.sh into the user data option. 
-Now you can launch your instance. 
-
-
 # Local Docker Deployment
 * In the Learner lab, click "AWS Details" and then copy the text in the window below "AWS CLI"
 
@@ -85,6 +73,17 @@ Next, give execute permissions and run script by running
 chmod +x startup.sh
 ./startup.sh
 ```
+
+# EC2 Docker Deployment
+In your AWS Learner Lab, find Secrets Manager Service and store a new 
+secret. Name you secret DISCORD_TOKEN, and add your own discord token. 
+Store another secret named CHANNEL_NAME, and use the name of the channel 
+you want to run the bot in.
+
+Next, you want to create a role that is connected to AWS secrets manager. 
+Attach the role to the IAM Instance Profile Option when creating a new EC2 
+instance. Upload the contents of userDataDockerEC2.sh into the user data option. 
+Now you can launch your instance. 
 
 ## Technologies Used
 - By using Discord API, this project creates a bot that can start a categories game for users.  [Discord 
