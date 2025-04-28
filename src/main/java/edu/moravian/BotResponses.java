@@ -11,7 +11,7 @@ public class BotResponses {
     public static String help() {
         return "**Trivia Game!**\n" +
                 "Here is a list of commands to play!\n\n" +
-                "* `!about` - Get information about the game!\n" +
+                "* `!about` - Get information!\n" +
                 "* `!categories` - See all of the available categories.\n" +
                 "* `!start <category>` - Start a new game with picked category.\n" +
                 "* `!start random` - Start new game with a random category.\n" +
