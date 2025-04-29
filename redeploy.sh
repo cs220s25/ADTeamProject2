@@ -1,6 +1,4 @@
 #!/bin/bash
-cd /ADTeamProject2
-
 sudo systemctl stop discordBot.service
 
 # Pull any updates

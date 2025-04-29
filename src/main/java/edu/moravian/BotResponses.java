@@ -12,15 +12,15 @@ public class BotResponses {
         return "**Trivia Game!**\n" +
                 "Here is a list of commands to play!\n\n" +
                 "* `!about` - Get information!\n" +
-                "* `!categories` - See all of the available categories.\n" +
+                "* `!categories` - See all categories.\n" +
                 "* `!start <category>` - Start a new game with picked category.\n" +
                 "* `!start random` - Start new game with a random category.\n" +
-                "* `!join` - Join the game. Can only join when game is in progress or in progress.\n" +
-                "* `!go` - Start the game when all players are ready!\n" +
-                "* `!question` - Get the current question.\n" +
-                "* `!status` - See the current game status, category, and the current scores in the game.\n" +
-                "* `!quit` - Quit the game.\n" +
-                "* `!help` - Get all game commands.\n" +
+                "* `!join` - Join the game.  or in progress.\n" +
+                "* `!go` - Start the game!\n" +
+                "* `!question` - Get the question.\n" +
+                "* `!status` - See the game status, category, and the current scores in the game.\n" +
+                "* `!quit` - Quit.\n" +
+                "* `!help` - Get all commands.\n" +
                 "* `!scores` - Get the current score of the game.\n";
     }
     public static String serverError() {

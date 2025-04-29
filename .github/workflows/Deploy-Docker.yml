@@ -17,5 +17,5 @@ jobs:
           key: ${{ secrets.LABSUSERPEM }}
           script: |
             cd /ADTeamProject2
-            chmod +x redeployWithDocker.sh
+            sudo chmod +x redeployWithDocker.sh
             ./redeployWithDocker.sh
