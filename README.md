@@ -114,7 +114,7 @@ our project are for running tests and deployments.  [Github Actions](https://git
 
 This bot will allow users to start a game, stop a game, and select a category that the user will have to answer questions about the categoory they selected.
 
-![System Diagram](discordBotProject/uml.jpg)
+<img width="678" alt="UML_bot" src="https://github.com/user-attachments/assets/3515bc3a-2c26-4001-873c-75615558ae93" />
 
 
 # Usage
