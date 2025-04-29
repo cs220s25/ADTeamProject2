@@ -15,7 +15,7 @@ public class BotResponses {
                 "* `!categories` - See all categories.\n" +
                 "* `!start <category>` - Start a new game with picked category.\n" +
                 "* `!start random` - Start new game with a random category.\n" +
-                "* `!join` - Join the game. Can only join when game is in progress or in progress.\n" +
+                "* `!join` - Join the game.  or in progress.\n" +
                 "* `!go` - Start the game!\n" +
                 "* `!question` - Get the question.\n" +
                 "* `!status` - See the game status, category, and the current scores in the game.\n" +
