@@ -7,6 +7,12 @@ AWS](https://github.com/cs220s25/ADTeamProject2/actions/workflows/DeployOnAws.ym
 [![Run Maven 
 Tests](https://github.com/cs220s25/ADTeamProject2/actions/workflows/run_tests.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject2/actions/workflows/run_tests.yml)
 
+[![Docker Image 
+CI](https://github.com/cs220s25/ADTeamProject2/actions/workflows/docker-image.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject2/actions/workflows/docker-image.yml)
+
+[![Deploy dockerized on 
+EC2](https://github.com/cs220s25/ADTeamProject2/actions/workflows/Deploy-Docker.yml/badge.svg)](https://github.com/cs220s25/ADTeamProject2/actions/workflows/Deploy-Docker.yml)
+
 
 
 ## Contributors
